@@ -1,0 +1,5 @@
+{
+  "name": "Willian Rupert Portfolio",
+  "description": "A VisionOS-inspired portfolio featuring spatial design, liquid 3D backgrounds, and bento-grid layouts using React, Tailwind, and Three.js.",
+  "requestFramePermissions": []
+}
