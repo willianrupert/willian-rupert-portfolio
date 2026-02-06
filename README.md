@@ -1,6 +1,6 @@
 # 🛠️ Portfólio de Projetos: IoT, Automação e Sustentabilidade
 
-> **Sobre mim:** Tenho 12 anos de experiência prática desenvolvendo soluções de hardware e software em Arduino. Este repositório documenta minha trajetória na eletrônica, desde automação residencial até sistemas complexos de monitoramento ambiental e CNC.
+> **Sobre mim:** Olá! Sou Willian Rupert. Tenho 12 anos de experiência prática desenvolvendo soluções de hardware e software em Arduino. Este repositório documenta minha trajetória na eletrônica, desde automação residencial até sistemas complexos de monitoramento ambiental e CNC.
 
 ---
 
